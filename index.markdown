@@ -17,6 +17,6 @@ We have some recommendations for radios you might want to use for connecting to 
 A glossary of mesh network related terms which you might want to know
 
 [why]: ./pages/why-meshcore.html
-[start]: ./pages//start.html
+[start]: ./pages/get-started.html
 [recommendations]: ./pages/recommendations.html
 [glossary]: ./pages/glossary.html
